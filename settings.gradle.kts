@@ -1,4 +1,3 @@
-```kotlin
 pluginManagement {
     repositories {
         google()
@@ -15,6 +14,3 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Uchat"
 include(":app")
-```
-
----
