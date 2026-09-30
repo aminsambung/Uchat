@@ -1,0 +1,23 @@
+# Android
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Firebase
+google-services.json.bak
+
+# Node
+node_modules/
+functions/node_modules/
+functions/.firebase/
+
+# Logs
+*.log
+```
